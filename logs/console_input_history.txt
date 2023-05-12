@@ -1,0 +1,30 @@
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+loadworld brush_world2
+rebuild
+rebuild
+brush_from_frame add
+rebuild
+loadworld brush_world2
+brush_from_frame add
+rebuild
+rebuild

@@ -1,0 +1,30 @@
+[2023-05-12 01:36:51] INIT.INFO: Initialized logging system.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Dynamic Variables...
+[2023-05-12 01:36:51] INIT.INFO: Initialized Dynamic Variables.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Config Reader...
+[2023-05-12 01:36:51] INIT.INFO: Initialized Config Reader.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Signals...
+[2023-05-12 01:36:51] INIT.INFO: Initialized Signals.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Timing...
+[2023-05-12 01:36:51] INIT.SYS.INFO: Initializing time.
+[2023-05-12 01:36:51] INIT.INFO: Initialized Timing.
+[2023-05-12 01:36:51] INIT.INFO: Initializing IO library...
+[2023-05-12 01:36:51] INIT.INFO: Initialized IO library.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Graphics...
+[2023-05-12 01:36:51] INIT.DRAW.INFO: Initializing windows.
+[2023-05-12 01:36:51] INIT.DRAW.INFO: Initializing viewports.
+[2023-05-12 01:36:51] INIT.DRAW.INFO: Linking windows.
+[2023-05-12 01:36:51] INIT.DRAW.INFO: Preloading textures.
+[2023-05-12 01:36:51] INIT.INFO: Initialized Graphics.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Input...
+[2023-05-12 01:36:51] INIT.INFO: Initialized Input.
+[2023-05-12 01:36:51] INIT.INFO: Initializing Interface...
+[2023-05-12 01:36:51] INIT.INTERFACE.INFO: Initializing viewport interfaces.
+[2023-05-12 01:36:51] INPUT.DPAD.INFO: Registered dpad 0.
+[2023-05-12 01:36:51] INPUT.DPAD.INFO: Registered dpad 1.
+[2023-05-12 01:36:51] INIT.INTERFACE.INFO: Setting initial viewport layout.
+[2023-05-12 01:36:51] INIT.INTERFACE.INFO: Mapping initial viewport interfaces.
+[2023-05-12 01:36:51] INIT.INFO: Initialized Interface.
+[2023-05-12 01:36:51] INIT.INFO: Initializing World...
+[2023-05-12 01:36:51] INIT.INFO: Initialized World.
+[2023-05-12 01:36:51] INIT.INFO: Initialized the Electric Pentacle.
