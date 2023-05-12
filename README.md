@@ -1,2 +1,2 @@
-# epe
-Electric Pentacle Editor
+# epm
+Electric Pentacle Machine
