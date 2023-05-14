@@ -13,9 +13,13 @@ When I was a kid I liked playing around in Unreal Editor 2.0, making bad modific
 This is an open-ended hobby project. As such, I don't know where it is going in the long term. I'd be satisfied if I could make an editor superficially similar to the Unreal Editor 2.0 of my childhood. I'd like to be able to design a game-world by placing and modifying geometric "brushes", which then get processed and transformed into an actual playable game-world.
 
 # Notable features
+- Written in C99.
 - Software rasterization.
-- A BSP structure to aid to polygon
+- Support for a *binary space partition* to aid in rendering and collision (collision not implemented yet).
 
 # Notable antifeatures
 - No floating point types in the code (well... almost).
 - No GPU support.
+
+# Major TODO Items
+- Make it easier for other people to build the editor from source. No Makefile is yet included in the repo because what I currently use is dependent on my own system's file structure.
