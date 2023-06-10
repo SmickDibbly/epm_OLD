@@ -23,3 +23,4 @@ This is an open-ended hobby project. As such, I don't know where it is going in 
 
 # Major TODO Items
 - Make it easier for other people to build the editor from source. No Makefile is yet included in the repo because what I currently use is dependent on my own system's file structure.
+- Change name from "Electric Pentacle Machine" to "Pentacle Engine". The latter is more concise, sounds equally cool, and is still unique. Downside: All identifiers in the codebase start with "epm_" no longer maker sense.
