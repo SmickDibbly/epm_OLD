@@ -1,4 +1,4 @@
-As of May 11, 2023, this is repo just a dump of (most of) the project directory. I will gradually be cleaning it all up, organizing, writing better comments and documentation, etc.
+# This repo has been replaced by https://github.com/SmickDibbly/epm
 
 # Electric Pentacle Machine
 This is an attempt to "make a game from scratch": to create a game engine, a graphics library for the game engine, an editor for making game assets, and an actual game. In its current form there is no clear separation between these things, but it resembles an editor most of all.
